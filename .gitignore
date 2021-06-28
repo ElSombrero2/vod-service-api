@@ -1,0 +1,6 @@
+node_modules/
+uploads/cover/
+uploads/media/
+uploads/image/
+yarn.lock
+.env
